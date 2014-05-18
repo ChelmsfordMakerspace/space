@@ -1,14 +1,14 @@
 ##Chelmsford Makerspace LANParty Plan
 
 One of the ideas I have in mind are LANParty's which could take place monthly to raise funding and let people take a break from their projects/school/whatever and relax.
-The plan illustrated below is basically what I think we should use as guidelines to running the Lan Party's.
+The plan illustrated below is basically what I think we should use as guidelines to running Lan Parties.
 
 ###The Hardware
 - We will bring one PC which will serve as the master server hosting a variety of games and other systems.
 - Attendees are expected to bring their own equipment along, we can only supply a maximum of 2 plug sockets per person, so please don't bring second monitors or really powerful stuff.
-- Networking can be provided overwireless or traditional ethernet.
+- Networking can be provided over wireless or traditional ethernet (recommended).
 - Tables and Chairs will be provided as CMS norm.
-- No PCs will be handed out and responsibiliy lies with you to keep your PC in good health.
+- No PCs will be handed out and responsibility lies with you to keep your PC in good health.
 - Please scan your PC for viruses because the last thing a LAN Party needs is Digital STDs.
 
 ###The Software
@@ -33,10 +33,10 @@ The plan illustrated below is basically what I think we should use as guidelines
  - A copy of a browser should the user wish to access the net.
 
 ### Other Stuff
-- The likely hood is that food will be bought prior or during the cource of the event and we won't charge you to have your share, but please be conciderate to other people before walking off with 2L of Coke.
+- The likely hood is that food will be bought prior or during the course of the event and we won't charge you to have your share, but please be considerate to other people before walking off with 2L of Coke.
 - We still follow the rules of CMS.
 - Be respectful to other people.
-- Costing can vary but a guideline price would be about £4 to cover cost of increased electricty usage and Food.
+- Costing can vary but a guideline price would be about £4 to cover cost of increased electricity usage and Food.
 - Due to arrangements in the Hut we cannot allow sleeping between games, it's just not practical.
 
 ### How it plays out.
@@ -49,13 +49,13 @@ The plan illustrated below is basically what I think we should use as guidelines
  - Getting passwords to Wifi to everyone.
  - Welcome and rule explaining.
  - Troubleshooting problems.
- - Steam/Playernames are taken down to reference to actual player.
+ - Steam/Player names are taken down to reference to actual player.
 - After that we announce the games will start and votes are placed via the webserver to the first game.
 - The server admin takes around 3-4 minutes to setup the server while people start the games (the servers will already be running, but team names and stuff will need doing).
 - The games will start, teams are picked and noted down via web interface.
 - Anybody on the wrong team will be moved to the right teams.
 - At the end of each round, scores are noted down and at the end of a set amount of maps/rounds, a new game is voted for.
-- Secondary practise servers will be running in the background for non-competers.
+- Secondary practise servers will be running in the background for non-competitors.
 
 ### Point Scoring
 Points are awarded for each player based on:
@@ -63,5 +63,5 @@ Points are awarded for each player based on:
 - MVP/Top3 Player: 1pt (Not awarded if either below are awarded)
 - Top of Team: 2pt
 - Top of Server: 1pt
-At the end of the event, points are tallyed for each player. 1st, 2nd and 3rd positions are awarded *something*.
+At the end of the event, points are tallied for each player. 1st, 2nd and 3rd positions are awarded *something*.
 Hopefully later on a montage of the LAN party is edited together with demo files of good moments along with recordings.
